@@ -80,7 +80,7 @@ Additionally, you will need the following Python libraries:
 ![example_input](https://images.unsplash.com/photo-1516906233847-e379772c9085?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW90b3JiaWtlJTIwcmFjaW5nfGVufDB8fDB8fHww)
 
 **Generated Caption**:
-"A motorcyclist leans into a turn on a paved road. The rider wears a red, white, and blue helmet and racing leathers. The motorcycle is predominantly blue and white with the number 5 visible on the front. A grassy area borders the road."
+"A motorcycle racer, wearing a red, white, and blue helmet and racing suit, leans into a turn on a blue and yellow Kawasaki sportbike. The motorcycle has the number 31 prominently displayed. The racer is on a section of the track near the edge, where the red and white curb meets the asphalt."
 
 ---
 
