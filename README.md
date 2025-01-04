@@ -77,10 +77,10 @@ Additionally, you will need the following Python libraries:
 ## Example
 
 **Input Image**:
-![example_input](docs/example_input.jpg)
+![example_input]("[C:\Projects\Image_Caption_Generator\Flickr8k_Dataset\Flicker8k_Dataset\161669933_3e7d8c7e2c.jpg](https://images.unsplash.com/photo-1516906233847-e379772c9085?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW90b3JiaWtlJTIwcmFjaW5nfGVufDB8fDB8fHww)")
 
 **Generated Caption**:
-"A group of people playing soccer on a sunny day."
+"A motorcyclist leans into a turn on a paved road. The rider wears a red, white, and blue helmet and racing leathers. The motorcycle is predominantly blue and white with the number 5 visible on the front. A grassy area borders the road."
 
 ---
 
